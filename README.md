@@ -4,12 +4,16 @@ Methane, a potent greenhouse gas, has garnered global attention for its role in 
 
 ### Objectives
 The project utilizes data-driven predictive modeling to address methane emissions effectively. Employing statistical analysis and advanced modeling techniques, we forecast emissions and propose actionable reduction steps.
+The statistical analysis and modeling technique includes linear regression, logistic regression, Classification and Regression Tree (CART) and random forest.  
 
 ### Three-Tiered Approach
 Assessing Acceptability: Benchmarking predicted emission levels against industry standards.
+
 Tackling Significant Variables: Identifying and strategizing actions to address key contributing factors.
+
 Scenario Testing: Utilizing predictive models to optimize emission reduction strategies.
-Key Findings
+
+### Key Findings
 Technological upgrades, maintenance of older infrastructure, and efficient equipment deployment are critical to reducing methane emissions.
 
 ### Proposed Solution
