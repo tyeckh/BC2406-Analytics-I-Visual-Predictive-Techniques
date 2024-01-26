@@ -1,24 +1,26 @@
 # BC2406-Analytics-I-Visual-Predictive-Techniques
-This project, conducted as part of the Nanyang Technological University Business School Coursework, centers on Sustainable Methane Management in Oil and Gas Operations. It serves as a Proof of Concept for Saudi Aramco.
 
-In this repository, you'll find the project report (in .pdf), an R script containing our modeling and results (in .R), and the cleaned dataset used for analytics purposes (in .csv). While the Proof of Concept was tailored for Saudi Aramco, it is to note that the project presentation was made internally to the course lecturer.
+Methane, a potent greenhouse gas, has garnered global attention for its role in climate change. As part of international sustainability efforts, Saudi Aramco aims to reduce its environmental footprint. This project, conducted as part of the Nanyang Technological University Business School Coursework, serves as a Proof of Concept for Aramco.
 
-Overview
-Methane, a potent greenhouse gas contributing significantly to global warming, has prompted increased attention from environmentalists, policymakers, and industry leaders. In alignment with international sustainability goals, Saudi Aramco is committed to reducing its environmental impact. This report serves as a Proof of Concept, introducing an analytical framework employing data-driven predictive modeling to address methane emissions effectively.
+### Objectives
+The project utilizes data-driven predictive modeling to address methane emissions effectively. Employing statistical analysis and advanced modeling techniques, we forecast emissions and propose actionable reduction steps.
 
-Objectives
-The primary objective is to identify and implement environmentally beneficial and economically viable strategies for mitigating methane emissions. Leveraging statistical analysis and advanced modeling techniques, including Linear Regression, Classification and Regression Trees (CART), and Random Forest, our approach forecasts emissions and proposes actionable reduction steps.
-
-Three-Tiered Approach
-Assessing Acceptability: Benchmarking predicted emission levels against industry standards and regulatory expectations.
+### Three-Tiered Approach
+Assessing Acceptability: Benchmarking predicted emission levels against industry standards.
 Tackling Significant Variables: Identifying and strategizing actions to address key contributing factors.
-Scenario Testing: Utilizing predictive models to test intervention scenarios and optimize emission reduction strategies.
-
+Scenario Testing: Utilizing predictive models to optimize emission reduction strategies.
 Key Findings
-Our analysis highlights the critical role of technological upgrades, infrastructure maintenance, and the deployment of efficient equipment, such as combustors, in reducing methane emissions.
+Technological upgrades, maintenance of older infrastructure, and efficient equipment deployment are critical to reducing methane emissions.
 
-Proposed Solution
-Our solution offers Aramco a dual advantage: ensuring compliance with global standards and positioning itself as a leader in sustainable energy practices. By lowering emissions, Aramco stands to potentially reduce its cost of capital, enhancing shareholder value.
+### Proposed Solution
+Our solution aims to position Aramco as a leader in sustainable energy practices, ensuring compliance with global standards. By lowering emissions, Aramco may reduce its cost of capital, enhancing shareholder value.
 
-Conclusion
-This report underscores the synergy between environmental sustainability and economic success. It demonstrates that by actively addressing methane emissions, Aramco can contribute to global climate efforts while simultaneously improving its financial outlook.
+### Conclusion
+This project demonstrates the synergy between environmental sustainability and economic success. By actively addressing methane emissions, Aramco contributes to global climate efforts while improving its financial outlook.
+
+### Repository Contents
+Project Report: Sustainable_Methane_Management_Report.pdf
+R Script (Modeling and Results): Methane_Management_Model.R
+Cleaned Dataset: Methane_Management_Dataset.csv
+
+Please note that the Proof of Concept presentation was made internally to the course lecturer.
