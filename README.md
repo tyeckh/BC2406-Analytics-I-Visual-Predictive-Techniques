@@ -3,14 +3,11 @@
 Methane, a potent greenhouse gas, has garnered global attention for its role in climate change. As part of international sustainability efforts, Saudi Aramco aims to reduce its environmental footprint. This project, conducted as part of the Nanyang Technological University Business School Coursework, serves as a Proof of Concept for Aramco.
 
 ### Objectives
-The project utilizes data-driven predictive modeling to address methane emissions effectively. Employing statistical analysis and advanced modeling techniques, we forecast emissions and propose actionable reduction steps.
-The statistical analysis and modeling technique includes linear regression, logistic regression, Classification and Regression Tree (CART) and random forest.  
+This project provides a data-driven solution to reduce methane emissions in the oil and gas industry, focusing on Saudi Aramco. Utilizing predictive modeling techniques, including Linear Regression, CART, and Random Forest, the project aims to forecast methane emissions and propose effective reduction strategies.
 
 ### Three-Tiered Approach
 **Assessing Acceptability**: Benchmarking predicted emission levels against industry standards.
-
 **Tackling Significant Variables**: Identifying and strategizing actions to address key contributing factors.
-
 **Scenario Testing**: Utilizing predictive models to optimize emission reduction strategies.
 
 ### Key Findings
@@ -22,11 +19,26 @@ Our solution aims to position Aramco as a leader in sustainable energy practices
 ### Conclusion
 This project demonstrates the synergy between environmental sustainability and economic success. By actively addressing methane emissions, Aramco contributes to global climate efforts while improving its financial outlook.
 
+### Analytical and Predictive Techniques Utilised
+1. **Logistic Regression** was utilised in predicting class labels for missing catergorical data.
+2. **Linear Regression** was utlised in predictive modelling and the result was evaluated against the other models.
+3. **Classification And Regression Tree (CART)** was utlised in predictive modelling and the result was evaluated against the other models.
+4. **Random Forest** was utlised in predictive modelling and the result was evaluated against the other models.
+   In addition, a web interface built on R Shiny was developed for easy reference and application to business reccomendations.
+
+
 ### Repository Contents
 Project Report: Sustainable_Methane_Management_Report.pdf
-
 R Script (Modeling and Results): Methane_Management_Model.R
-
+R Script (Web Application using R Shiny): Prototype_Modelling.R
 Cleaned Dataset: Methane_Management_Dataset.csv
 
-Please note that the Proof of Concept presentation was made internally to the course lecturer.
+### Acknowledgments
+Group Members: 
+Ji Rong: Exploratory Data Analysis, Data Cleaning and preparations
+Kit Ho: Data Cleaning, Modelling and Evaluation
+Yi Hong: Insights, Business Applications and Reccomendations
+Justinian: Business Reccomendations and Conclusion
+Course: BC2406 Analytics I
+
+This project, including its report, script, and presentation, was developed solely as a Proof of Concept for academic purposes under the course BC2406 at Nanyang Technological University Business School. It was presented internally to the course lecturer and is not affiliated with or endorsed by Saudi Aramco or any commercial entities. All analyses, predictions, and recommendations are hypothetical and for educational purposes only. 
