@@ -5,9 +5,9 @@ Methane, a potent greenhouse gas, has garnered global attention for its role in 
 ### Objectives
 This project provides a data-driven solution to reduce methane emissions in the oil and gas industry, focusing on Saudi Aramco. Utilizing predictive modeling techniques, including Linear Regression, CART, and Random Forest, the project aims to forecast methane emissions and propose effective reduction strategies.
 
-### Three-Tiered Approach
-**Assessing Acceptability**: Benchmarking predicted emission levels against industry standards.
-**Tackling Significant Variables**: Identifying and strategizing actions to address key contributing factors.
+### Three-Tiered Approach<br>
+**Assessing Acceptability**: Benchmarking predicted emission levels against industry standards. <br>
+**Tackling Significant Variables**: Identifying and strategizing actions to address key contributing factors.<br>
 **Scenario Testing**: Utilizing predictive models to optimize emission reduction strategies.
 
 ### Key Findings
@@ -23,8 +23,8 @@ This project demonstrates the synergy between environmental sustainability and e
 1. **Logistic Regression** was utilised in predicting class labels for missing catergorical data.
 2. **Linear Regression** was utlised in predictive modelling and the result was evaluated against the other models.
 3. **Classification And Regression Tree (CART)** was utlised in predictive modelling and the result was evaluated against the other models.
-4. **Random Forest** was utlised in predictive modelling and the result was evaluated against the other models.
-   In addition, a web interface built on R Shiny was developed for easy reference and application to business reccomendations.
+4. **Random Forest** was utlised in predictive modelling and the result was evaluated against the other models. <br>
+In addition, a web interface built on R Shiny was developed for easy reference and application to business reccomendations.
 
 
 ### Repository Contents
@@ -36,7 +36,7 @@ Cleaned Dataset: Methane_Management_Dataset.csv
 ### Acknowledgments
 Group Members: <br>
 Ji Rong: Exploratory Data Analysis, Data Cleaning and Preparation<br>
-Kit Ho @tyeckh: Data Cleaning, Modelling and Evaluation<br>
+Kit Ho: Data Cleaning, Modelling and Evaluation<br>
 Yi Hong: Insights, Business Applications and Reccomendations<br>
 Justinian: Business Reccomendations and Conclusion<br>
 
