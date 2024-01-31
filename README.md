@@ -37,8 +37,8 @@ Cleaned Dataset: Methane_Management_Dataset.csv
 Group Members: <br>
 Ji Rong: Exploratory Data Analysis, Data Cleaning and Preparation<br>
 Kit Ho: Data Cleaning, Modelling and Evaluation<br>
-Yi Hong: Insights, Business Applications and Reccomendations<br>
-Justinian: Business Reccomendations and Conclusion<br>
+Yi Hong: Insights, Business Applications and Recommendations<br>
+Justinian: Business Recommendations and Conclusion<br>
 
 Course: BC2406 Analytics I
 
