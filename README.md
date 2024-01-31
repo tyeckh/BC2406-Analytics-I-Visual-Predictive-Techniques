@@ -28,17 +28,18 @@ This project demonstrates the synergy between environmental sustainability and e
 
 
 ### Repository Contents
-Project Report: Sustainable_Methane_Management_Report.pdf
-R Script (Modeling and Results): Methane_Management_Model.R
-R Script (Web Application using R Shiny): Prototype_Modelling.R
+Project Report: Sustainable_Methane_Management_Report.pdf<br>
+R Script (Modeling and Results): Methane_Management_Model.R<br>
+R Script (Web Application using R Shiny): Prototype_Modelling.R<br>
 Cleaned Dataset: Methane_Management_Dataset.csv
 
 ### Acknowledgments
-Group Members: 
-Ji Rong: Exploratory Data Analysis, Data Cleaning and preparations
-Kit Ho: Data Cleaning, Modelling and Evaluation
-Yi Hong: Insights, Business Applications and Reccomendations
-Justinian: Business Reccomendations and Conclusion
+Group Members: <br>
+Ji Rong: Exploratory Data Analysis, Data Cleaning and Preparation<br>
+Kit Ho @tyeckh: Data Cleaning, Modelling and Evaluation<br>
+Yi Hong: Insights, Business Applications and Reccomendations<br>
+Justinian: Business Reccomendations and Conclusion<br>
+
 Course: BC2406 Analytics I
 
 This project, including its report, script, and presentation, was developed solely as a Proof of Concept for academic purposes under the course BC2406 at Nanyang Technological University Business School. It was presented internally to the course lecturer and is not affiliated with or endorsed by Saudi Aramco or any commercial entities. All analyses, predictions, and recommendations are hypothetical and for educational purposes only. 
